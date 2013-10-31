@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7
+END
+streaming.PendingFile.bin
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/streaming.PendingFile.bin
+END
+db.SliceFromReadCommand.bin
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.SliceFromReadCommand.bin
+END
+db.Row.bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.Row.bin
+END
+gms.Gossip.bin
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/gms.Gossip.bin
+END
+db.WriteResponse.bin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.WriteResponse.bin
+END
+db.RowMutation.bin
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.RowMutation.bin
+END
+utils.LegacyBloomFilter.bin
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/utils.LegacyBloomFilter.bin
+END
+service.TreeResponse.bin
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/service.TreeResponse.bin
+END
+service.TreeRequest.bin
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/service.TreeRequest.bin
+END
+db.Truncation.bin
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.Truncation.bin
+END
+streaming.StreamHeader.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/streaming.StreamHeader.bin
+END
+db.migration.Keyspace1.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.migration.Keyspace1.bin
+END
+db.migration.Keyspace2.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.migration.Keyspace2.bin
+END
+gms.EndpointState.bin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/gms.EndpointState.bin
+END
+db.migration.Keyspace3.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.migration.Keyspace3.bin
+END
+db.migration.Keyspace4.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.migration.Keyspace4.bin
+END
+utils.BloomFilter.bin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/utils.BloomFilter.bin
+END
+streaming.StreamReply.bin
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/streaming.StreamReply.bin
+END
+db.migration.Keyspace5.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.migration.Keyspace5.bin
+END
+streaming.StreamRequestMessage.bin
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/streaming.StreamRequestMessage.bin
+END
+utils.EstimatedHistogram.bin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/utils.EstimatedHistogram.bin
+END
+db.SliceByNamesReadCommand.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.SliceByNamesReadCommand.bin
+END
+db.RangeSliceCommand.bin
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/serialization/0.7/db.RangeSliceCommand.bin
+END

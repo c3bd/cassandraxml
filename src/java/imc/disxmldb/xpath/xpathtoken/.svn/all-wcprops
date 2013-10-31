@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken
+END
+XPathTokenParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/XPathTokenParserTokenManager.java
+END
+XPathToken.jj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/XPathToken.jj
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/ParseException.java
+END
+XPathTokenParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/XPathTokenParser.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/TokenMgrError.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/SimpleCharStream.java
+END
+XPathTokenParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/267/trunk/cassandraxml/src/java/imc/disxmldb/xpath/xpathtoken/XPathTokenParserConstants.java
+END

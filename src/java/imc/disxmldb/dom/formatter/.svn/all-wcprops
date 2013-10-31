@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/245/trunk/cassandraxml/src/java/imc/disxmldb/dom/formatter
+END
+IndentedXMLNodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/245/trunk/cassandraxml/src/java/imc/disxmldb/dom/formatter/IndentedXMLNodeFormatter.java
+END
+IXMLNodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/223/trunk/cassandraxml/src/java/imc/disxmldb/dom/formatter/IXMLNodeFormatter.java
+END
+NormalXMLNodeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/223/trunk/cassandraxml/src/java/imc/disxmldb/dom/formatter/NormalXMLNodeFormatter.java
+END

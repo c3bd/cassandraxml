@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/264/trunk/cassandraxml/src/java/org/apache/cassandra/config
+END
+ReplicationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/config/ReplicationStrategy.java
+END
+EncryptionOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/config/EncryptionOptions.java
+END
+DatabaseDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/org/apache/cassandra/config/DatabaseDescriptor.java
+END
+ColumnDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/config/ColumnDefinition.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/config/ConfigurationException.java
+END
+KSMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/212/trunk/cassandraxml/src/java/org/apache/cassandra/config/KSMetaData.java
+END
+SeedProviderDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/config/SeedProviderDef.java
+END
+RequestSchedulerOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/config/RequestSchedulerOptions.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/org/apache/cassandra/config/Config.java
+END
+CFMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/212/trunk/cassandraxml/src/java/org/apache/cassandra/config/CFMetaData.java
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/212/trunk/cassandraxml/src/java/org/apache/cassandra/config/Schema.java
+END

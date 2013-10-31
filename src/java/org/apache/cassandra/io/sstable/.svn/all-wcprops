@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable
+END
+SSTableScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableScanner.java
+END
+SSTableBoundedScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableBoundedScanner.java
+END
+Descriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/Descriptor.java
+END
+SSTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTable.java
+END
+KeyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/KeyIterator.java
+END
+ReducingKeyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/ReducingKeyIterator.java
+END
+SSTableSimpleUnsortedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableSimpleUnsortedWriter.java
+END
+SSTableLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableLoader.java
+END
+SSTableWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableWriter.java
+END
+IndexHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/IndexHelper.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/Component.java
+END
+BloomFilterTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/BloomFilterTracker.java
+END
+SSTableMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableMetadata.java
+END
+SSTableDeletingTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableDeletingTask.java
+END
+SSTableIdentityIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableIdentityIterator.java
+END
+IndexSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/IndexSummary.java
+END
+SSTableSimpleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableSimpleWriter.java
+END
+SSTableReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/SSTableReader.java
+END
+AbstractSSTableSimpleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/sstable/AbstractSSTableSimpleWriter.java
+END

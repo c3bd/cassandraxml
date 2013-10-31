@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/gms
+END
+IGMSObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/gms/IGMSObserver.java
+END
+IGMSSubject.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/gms/IGMSSubject.java
+END
+ZooKeeperBasedGMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/gms/ZooKeeperBasedGMS.java
+END

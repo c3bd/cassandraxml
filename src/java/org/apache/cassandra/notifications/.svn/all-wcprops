@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/notifications
+END
+SSTableAddedNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/notifications/SSTableAddedNotification.java
+END
+INotificationConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/notifications/INotificationConsumer.java
+END
+INotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/notifications/INotification.java
+END
+SSTableListChangedNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/notifications/SSTableListChangedNotification.java
+END

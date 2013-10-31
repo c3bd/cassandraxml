@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/scheduler
+END
+RoundRobinScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/scheduler/RoundRobinScheduler.java
+END
+WeightedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/scheduler/WeightedQueue.java
+END
+NoScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/scheduler/NoScheduler.java
+END
+IRequestScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/scheduler/IRequestScheduler.java
+END
+WeightedQueueMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/scheduler/WeightedQueueMBean.java
+END

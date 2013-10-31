@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli
+END
+CliCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliCompiler.java
+END
+CliOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliOptions.java
+END
+CliUserHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliUserHelp.java
+END
+CliCommandHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliCommandHelp.java
+END
+CliClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliClient.java
+END
+CliSessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliSessionState.java
+END
+CliCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliCompleter.java
+END
+CliMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliMain.java
+END
+Cli.g
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/Cli.g
+END
+CliUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cli/CliUtils.java
+END

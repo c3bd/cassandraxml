@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/config
+END
+DatabaseDescriptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/config/DatabaseDescriptorTest.java
+END
+ColumnDefinitionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/config/ColumnDefinitionTest.java
+END
+CFMetaDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/config/CFMetaDataTest.java
+END

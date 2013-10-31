@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/279/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result
+END
+XPathResultFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/XPathResultFactory.java
+END
+MinResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/MinResult.java
+END
+AvgResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/AvgResult.java
+END
+CountResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/296/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/CountResult.java
+END
+SeqResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/296/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/SeqResult.java
+END
+FunctionReturnSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/FunctionReturnSerializer.java
+END
+TextResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/TextResult.java
+END
+XMLDocXMLParts.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/XMLDocXMLParts.java
+END
+XMLNodeForMutations.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/XMLNodeForMutations.java
+END
+SumResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/SumResult.java
+END
+FunctionReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/FunctionReturn.java
+END
+XMLDocNodeIDs.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/XMLDocNodeIDs.java
+END
+MaxResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/cassandra/verbhandler/result/MaxResult.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty
+END
+xmldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/xmldb.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/commons-io-1.4.jar
+END
+xmlrpc-client-3.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/xmlrpc-client-3.1.2.jar
+END
+xmlrpc-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/xmlrpc-LICENSE.txt
+END
+xmlrpc-common-3.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/xmlrpc-common-3.1.2.jar
+END
+javax.servlet-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/javax.servlet-1.4.jar
+END
+serializer-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/serializer-LICENSE.txt
+END
+org.mortbay.jetty.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/org.mortbay.jetty.jar
+END
+xmldb-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/xmldb-LICENSE.txt
+END
+log4j-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/log4j-NOTICE.txt
+END
+ws-commons-util-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/ws-commons-util-LICENSE.txt
+END
+ws-commons-util-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/ws-commons-util-1.0.2.jar
+END
+log4j-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/log4j-LICENSE.txt
+END
+serializer-2.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/serializer-2.9.1.jar
+END
+serializer-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/serializer-NOTICE.txt
+END
+xmlrpc-NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/xmlrpc-NOTICE.txt
+END
+xmlrpc-server-3.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/xmlrpc-server-3.1.2.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jetty/log4j-1.2.15.jar
+END

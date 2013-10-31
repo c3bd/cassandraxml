@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/invertindex
+END
+InvertIndexDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/invertindex/InvertIndexDecorator.java
+END
+ICFRetrievalStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/invertindex/ICFRetrievalStrategy.java
+END
+ParallelCFRetrieval.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/invertindex/ParallelCFRetrieval.java
+END
+CFInvertIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/invertindex/CFInvertIndex.java
+END
+CFInvertIndexMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/index/invertindex/CFInvertIndexMBean.java
+END
+IInvertIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/invertindex/IInvertIndex.java
+END

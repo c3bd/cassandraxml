@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift
+END
+TBinaryProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/TBinaryProtocol.java
+END
+CassandraDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/CassandraDaemon.java
+END
+CustomTThreadPoolServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/CustomTThreadPoolServer.java
+END
+CassandraServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/CassandraServer.java
+END
+TCustomServerSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/TCustomServerSocket.java
+END
+CustomTHsHaServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/CustomTHsHaServer.java
+END
+TCustomNonblockingServerSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/TCustomNonblockingServerSocket.java
+END
+CustomTNonBlockingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/CustomTNonBlockingServer.java
+END
+ThriftValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/thrift/ThriftValidation.java
+END

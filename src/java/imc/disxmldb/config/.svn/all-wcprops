@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/config
+END
+DataFlushServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/223/trunk/cassandraxml/src/java/imc/disxmldb/config/DataFlushServiceFactory.java
+END
+SysConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/imc/disxmldb/config/SysConfig.java
+END
+CollectionMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/286/trunk/cassandraxml/src/java/imc/disxmldb/config/CollectionMetaData.java
+END
+MutationFlushService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/212/trunk/cassandraxml/src/java/imc/disxmldb/config/MutationFlushService.java
+END
+XMLDBCatalogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/286/trunk/cassandraxml/src/java/imc/disxmldb/config/XMLDBCatalogManager.java
+END
+XMLSchemaMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/71/trunk/cassandraxml/src/java/imc/disxmldb/config/XMLSchemaMetaData.java
+END
+XMLMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/249/trunk/cassandraxml/src/java/imc/disxmldb/config/XMLMetaData.java
+END
+XMLDBCatalogManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/250/trunk/cassandraxml/src/java/imc/disxmldb/config/XMLDBCatalogManagerMBean.java
+END
+InstantMetaDataFlushService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/223/trunk/cassandraxml/src/java/imc/disxmldb/config/InstantMetaDataFlushService.java
+END

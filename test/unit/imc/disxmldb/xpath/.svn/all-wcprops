@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/273/trunk/cassandraxml/test/unit/imc/disxmldb/xpath
+END
+XPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/222/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/XPathTest.java
+END
+ComplexXPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/273/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/ComplexXPathTest.java
+END
+XPathCompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/280/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/XPathCompilerTest.java
+END
+XPathTokenParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/280/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/XPathTokenParserTest.java
+END
+QueryColRecursiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/255/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/QueryColRecursiveTest.java
+END
+XPathTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/295/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/XPathTypeTest.java
+END
+XPathFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/228/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/XPathFunctionTest.java
+END
+QueryMultiCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/221/trunk/cassandraxml/test/unit/imc/disxmldb/xpath/QueryMultiCollectionTest.java
+END

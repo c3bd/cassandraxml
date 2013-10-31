@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations
+END
+RangeSlicer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations/RangeSlicer.java
+END
+IndexedRangeSlicer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations/IndexedRangeSlicer.java
+END
+CounterGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations/CounterGetter.java
+END
+Inserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations/Inserter.java
+END
+MultiGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations/MultiGetter.java
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations/Reader.java
+END
+CounterAdder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/operations/CounterAdder.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/281/trunk/cassandraxml/src/java/imc/disxmldb/xpath
+END
+ExecContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/xpath/ExecContext.java
+END
+XPathSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/288/trunk/cassandraxml/src/java/imc/disxmldb/xpath/XPathSequence.java
+END
+XPathProcessorV2MBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/264/trunk/cassandraxml/src/java/imc/disxmldb/xpath/XPathProcessorV2MBean.java
+END
+DistributeXPathProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/296/trunk/cassandraxml/src/java/imc/disxmldb/xpath/DistributeXPathProcessor.java
+END
+LocalXPathQueryRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/xpath/LocalXPathQueryRunnable.java
+END
+XPathProcessorV2.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/xpath/XPathProcessorV2.java
+END
+XPathConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/xpath/XPathConstant.java
+END

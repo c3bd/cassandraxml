@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/cassandraxml/tools/py_stress
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/cassandraxml/tools/py_stress/README.txt
+END
+stress.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/cassandraxml/tools/py_stress/stress.py
+END

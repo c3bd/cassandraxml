@@ -1,0 +1,71 @@
+10
+
+dir
+250
+https://imccassandraxml.googlecode.com/svn/trunk/cassandraxml/test/data
+https://imccassandraxml.googlecode.com/svn
+
+
+
+2011-10-07T01:26:19.851517Z
+2
+xiafan68@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bca7c035-16c6-4e1d-c52e-70b80fab7185
+
+complex.xml
+file
+251
+
+
+
+2012-02-03T11:52:13.000000Z
+fe21ce0914c56ad49861ec8622b129e0
+2012-07-09T00:47:15.495794Z
+251
+xiafan68
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15221
+
+corrupt-sstables
+dir
+
+legacy-sstables
+dir
+
+serialization
+dir
+

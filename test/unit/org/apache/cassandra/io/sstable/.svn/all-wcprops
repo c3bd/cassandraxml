@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable
+END
+SSTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/SSTableTest.java
+END
+LegacySSTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/LegacySSTableTest.java
+END
+SSTableSimpleWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/SSTableSimpleWriterTest.java
+END
+SSTableReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/SSTableReaderTest.java
+END
+SSTableUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/SSTableUtils.java
+END
+IndexHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/IndexHelperTest.java
+END
+SSTableMetadataSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/SSTableMetadataSerializerTest.java
+END
+DescriptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/io/sstable/DescriptorTest.java
+END

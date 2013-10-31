@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator
+END
+IColumnIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/IColumnIterator.java
+END
+SimpleAbstractColumnIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/SimpleAbstractColumnIterator.java
+END
+SSTableNamesIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/SSTableNamesIterator.java
+END
+IndexedSliceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/IndexedSliceReader.java
+END
+ICountableColumnIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/ICountableColumnIterator.java
+END
+SimpleSliceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/SimpleSliceReader.java
+END
+IdentityQueryFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/IdentityQueryFilter.java
+END
+SSTableSliceIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/columniterator/SSTableSliceIterator.java
+END

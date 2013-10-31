@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/compaction
+END
+CompactionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/compaction/CompactionsTest.java
+END
+CompactionsPurgeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/compaction/CompactionsPurgeTest.java
+END
+OneCompactionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/compaction/OneCompactionTest.java
+END
+SizeTieredCompactionStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/compaction/SizeTieredCompactionStrategyTest.java
+END

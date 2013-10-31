@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms
+END
+FailureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/FailureDetector.java
+END
+GossipDigestAck2VerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossipDigestAck2VerbHandler.java
+END
+FailureDetectorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/FailureDetectorMBean.java
+END
+IFailureNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/IFailureNotification.java
+END
+GossipDigestAck2Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossipDigestAck2Message.java
+END
+IEndpointStateChangeSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/IEndpointStateChangeSubscriber.java
+END
+IFailureDetectionEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/IFailureDetectionEventListener.java
+END
+IFailureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/IFailureDetector.java
+END
+ApplicationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/ApplicationState.java
+END
+GossiperMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossiperMBean.java
+END
+EndpointState.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/EndpointState.java
+END
+Gossiper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/Gossiper.java
+END
+PureRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/PureRandom.java
+END
+VersionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/VersionGenerator.java
+END
+VersionedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/VersionedValue.java
+END
+GossipDigestSynVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossipDigestSynVerbHandler.java
+END
+GossipDigestAckVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossipDigestAckVerbHandler.java
+END
+HeartBeatState.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/HeartBeatState.java
+END
+GossipDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossipDigest.java
+END
+GossipDigestSynMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossipDigestSynMessage.java
+END
+GossipDigestAckMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/gms/GossipDigestAckMessage.java
+END

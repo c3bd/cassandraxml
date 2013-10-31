@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro
+END
+UpdateKeyspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/UpdateKeyspace.java
+END
+ColumnDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/ColumnDef.java
+END
+Migration.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/Migration.java
+END
+KsDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/KsDef.java
+END
+IndexType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/IndexType.java
+END
+AddColumnFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/AddColumnFamily.java
+END
+DropColumnFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/DropColumnFamily.java
+END
+RenameColumnFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/RenameColumnFamily.java
+END
+AddKeyspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/AddKeyspace.java
+END
+DropKeyspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/DropKeyspace.java
+END
+RenameKeyspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/RenameKeyspace.java
+END
+UpdateColumnFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/UpdateColumnFamily.java
+END
+CfDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/db/migration/avro/CfDef.java
+END

@@ -1,0 +1,37 @@
+<basicfeature>
+<node id="1">
+<bfid>0300010000000007201</bfid>
+<TimeUpload>2010年11月09日</TimeUpload>
+<Sharer>audr</Sharer>
+<FileName>大国崛起.avi</FileName>
+<FileSize>190k</FileSize>
+</node>
+<node id="2">
+<bfid>0300010000000007202</bfid>
+<TimeUpload>2010年11月10日</TimeUpload>
+<Sharer>audr</Sharer>
+<FileName>测试视频.avi</FileName>
+<FileSize>260k</FileSize>
+</node>
+<node id="3">
+<bfid>0300010000000007203</bfid>
+<TimeUpload>2010年11月09日</TimeUpload>
+<Sharer>audr</Sharer>
+<FileName>经济复苏.avi</FileName>
+<FileSize>100k</FileSize>
+</node>
+<node id="4">
+<bfid>0300010000000007204</bfid>
+<TimeUpload>2010年11月09日</TimeUpload>
+<Sharer>audr</Sharer>
+<FileName>测试.avi</FileName>
+<FileSize>110k</FileSize>
+</node>
+<node id="5">
+<bfid>0300010000000007204</bfid>
+<TimeUpload>2010年11月09日</TimeUpload>
+<Sharer>audr</Sharer>
+<FileName>测试.avi</FileName>
+<FileSize>110MB</FileSize>
+</node>
+</basicfeature>

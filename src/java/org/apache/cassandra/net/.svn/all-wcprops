@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net
+END
+IAsyncResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/IAsyncResult.java
+END
+OutboundTcpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/OutboundTcpConnection.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/Header.java
+END
+MessagingServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/MessagingServiceMBean.java
+END
+HeaderTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/HeaderTypes.java
+END
+OutboundTcpConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/OutboundTcpConnectionPool.java
+END
+ResponseVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/ResponseVerbHandler.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/Message.java
+END
+CompactEndpointSerializationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/CompactEndpointSerializationHelper.java
+END
+ProtocolHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/ProtocolHeader.java
+END
+IMessageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/IMessageCallback.java
+END
+IVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/IVerbHandler.java
+END
+MessageDeliveryTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/MessageDeliveryTask.java
+END
+CachingMessageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/CachingMessageProducer.java
+END
+AsyncResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/AsyncResult.java
+END
+MessageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/MessageProducer.java
+END
+IncomingTcpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/IncomingTcpConnection.java
+END
+IAsyncCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/IAsyncCallback.java
+END
+CallbackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/CallbackInfo.java
+END
+MessagingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/net/MessagingService.java
+END

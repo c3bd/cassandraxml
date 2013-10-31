@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/274/trunk/cassandraxml/src/java/imc/disxmldb/dom/typesystem
+END
+TypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/dom/typesystem/TypeResolver.java
+END
+ValueType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/dom/typesystem/ValueType.java
+END
+DoubleComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/imc/disxmldb/dom/typesystem/DoubleComparator.java
+END
+UTF8Comparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/imc/disxmldb/dom/typesystem/UTF8Comparator.java
+END
+IntegerComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/imc/disxmldb/dom/typesystem/IntegerComparator.java
+END
+LongComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/imc/disxmldb/dom/typesystem/LongComparator.java
+END

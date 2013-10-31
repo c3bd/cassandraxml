@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/dom/schema
+END
+SchemasTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/202/trunk/cassandraxml/src/java/imc/disxmldb/dom/schema/SchemasTree.java
+END
+SchemaSimpleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/dom/schema/SchemaSimpleType.java
+END
+SchemaElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/202/trunk/cassandraxml/src/java/imc/disxmldb/dom/schema/SchemaElement.java
+END
+SchemaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/202/trunk/cassandraxml/src/java/imc/disxmldb/dom/schema/SchemaType.java
+END
+ComplexType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/202/trunk/cassandraxml/src/java/imc/disxmldb/dom/schema/ComplexType.java
+END
+XMLSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/212/trunk/cassandraxml/src/java/imc/disxmldb/dom/schema/XMLSchema.java
+END

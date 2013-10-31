@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/251/trunk/cassandraxml/test/unit/imc/disxmldb/config
+END
+FileSystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/222/trunk/cassandraxml/test/unit/imc/disxmldb/config/FileSystemTest.java
+END
+CreateXMLDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/cassandraxml/test/unit/imc/disxmldb/config/CreateXMLDoc.java
+END
+CreateCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/222/trunk/cassandraxml/test/unit/imc/disxmldb/config/CreateCollection.java
+END
+RemoveXMLDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/222/trunk/cassandraxml/test/unit/imc/disxmldb/config/RemoveXMLDoc.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/222/trunk/cassandraxml/test/unit/imc/disxmldb/config/Config.java
+END
+RemoveCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/222/trunk/cassandraxml/test/unit/imc/disxmldb/config/RemoveCollection.java
+END
+ParseColIDFromCFNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/251/trunk/cassandraxml/test/unit/imc/disxmldb/config/ParseColIDFromCFNameTest.java
+END

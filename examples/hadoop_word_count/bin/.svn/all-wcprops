@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cassandraxml/examples/hadoop_word_count/bin
+END
+word_count_setup
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cassandraxml/examples/hadoop_word_count/bin/word_count_setup
+END
+word_count
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/cassandraxml/examples/hadoop_word_count/bin/word_count
+END
+word_count_counters
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/examples/hadoop_word_count/bin/word_count_counters
+END

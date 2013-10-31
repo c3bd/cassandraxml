@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/251/trunk/cassandraxml/test/unit/imc/disxmldb/storexml
+END
+StoreSplittedXMLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/191/trunk/cassandraxml/test/unit/imc/disxmldb/storexml/StoreSplittedXMLTest.java
+END
+StoreTextTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/251/trunk/cassandraxml/test/unit/imc/disxmldb/storexml/StoreTextTypeTest.java
+END
+StoreNoSplitXMLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/191/trunk/cassandraxml/test/unit/imc/disxmldb/storexml/StoreNoSplitXMLTest.java
+END

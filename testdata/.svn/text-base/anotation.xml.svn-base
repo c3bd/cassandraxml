@@ -1,0 +1,183 @@
+<pictures>
+<picture id = "20120601000001">
+     <url>图片http://auto.sina.com.cn/news/2012-05-24/0959975821.shtml</url>
+     <location/>
+     <description>Mazda6“以大欺小”A级车如何应对</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>一汽马自达</brand>
+          <model>mazda6</model>
+          <model>睿翼</model>
+          <cartype>大中型车</cartype>
+          <pricerange>15-20万</pricerange>
+          <description>动感的内饰外形、优异的操控性、高标准的安全性、宽大的内部空间和精细的做工</description>
+     </ROI>
+</picture>
+<picture id = "20120601000002">
+      <pageurl>http://auto.sina.com.cn/car/2011-11-18/0923872312.shtml</pageurl>
+     <url>http://photo.auto.sina.com.cn/tupian/9</url>
+     <location/>
+     <description>自我升华--试驾奥迪2012款A4L 2.0T</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>奥迪</brand>
+          <model>A4L</model>
+          <model>2012款A4L</model>
+          <cartype>中型车</cartype>
+          <pricerange>30-40万</pricerange>
+          <description>更加运动，更具操控感，动力更加强劲，更加节能</description>
+     </ROI>
+</picture>
+<picture id = "20120601000003">
+     <pageurl>http://auto.sina.com.cn/car/2011-08-05/1125817399.shtml</pageurl>
+     <url>http://i1.sinaimg.cn/qc/photo_auto/photo/ec/c1/221305/221305_570.jpg</url>
+     <location></location>
+     <description>长测报告二：配置贴心 标致408长期测试</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>标致</brand>
+          <model>东风标致408</model>
+          <cartype>中型车</cartype>
+          <pricerange>10-15万</pricerange>
+          <description>空间充裕，动力一般，适合温和驾驶的舒适家用中级车，性价比高</description>
+     </ROI>
+</picture>
+<picture id = "20120601000004">
+     <pageurl>http://auto.sina.com.cn/news/2012-04-27/1712962055.shtml</pageurl>
+     <url>http://i2.sinaimg.cn/qc/2012/0427/U6652P33DT20120427171141.png</url>
+     <location/>
+     <description>自由Hold得住 两款307任你选</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>标致</brand>
+          <model>东风标致307</model>
+          <cartype>中型车</cartype>
+          <pricerange>10-15万</pricerange>
+          <description>动感时尚的家用紧凑级两厢车，内部空间比较充裕，操控性不错</description>
+     </ROI>
+</picture>
+<picture id = "20120601000005">
+     <pageurl>http://auto.sina.com.cn/car/2012-02-27/0924923814.shtml</pageurl>
+     <url>http://i0.sinaimg.cn/qc/photo_auto/photo/10/02/5621002/5621002_570.jpg</url>
+     <location/>
+     <description>“选好车 有理游”奔腾B70震撼促销</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>奔腾</brand>
+          <model>B70 HEV</model>
+          <cartype>中型车</cartype>
+          <pricerange>15-20万</pricerange>
+          <description>奔腾混合动力轿车，目前还没有量产计划</description>
+     </ROI>
+</picture>
+<picture id = "20120601000006">
+     <pageurl>http://auto.sina.com.cn/car/2012-05-30/1007978909.shtml</pageurl>
+     <url>http://i1.sinaimg.cn/qc/photo_auto/photo/63/25/8716325/8716325_570.jpg</url>
+     <location/>
+     <description>奔腾B70 2.3L特装版降2万 送4000元装饰</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>奔腾</brand>
+          <model>B70</model>
+          <cartype>中型车</cartype>
+          <pricerange>15-20万</pricerange>
+          <description>动力与底盘技术基本源自马自达6，匹配原汁原味，操控性出色</description>
+     </ROI>
+</picture>
+<picture id = "20120601000007">
+     <pageurl>http://auto.sina.com.cn/car/2012-05-30/0859978775.shtml</pageurl>
+     <url>http://i1.sinaimg.cn/qc/photo_auto/photo/buycar/2600/1337139773.jpg</url>
+     <location/>
+     <description>进口高尔夫R直降5万元 送2年免费保养</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>大众</brand>
+          <model>进口高尔夫</model>
+          <cartype>中型车</cartype>
+          <pricerange>30-40万</pricerange>
+          <description>高尔夫平台上的软顶敞篷车，动力与标准版大体相同，但售价更高</description>
+     </ROI>
+</picture>
+<picture id = "20120601000008">
+     <pageurl>http://auto.sina.com.cn/car/2011-10-12/0841852268.shtml</pageurl>
+     <url>http://i2.sinaimg.cn/qc/photo_auto/chezhan/2011/45/20/46/30056_570.jpg</url>
+     <location/>
+     <description>理想主义在路上 试驾大众旅行车 2.0TSI</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>大众</brand>
+          <model>大众-旅行</model>
+          <cartype>中型车</cartype>
+          <pricerange>30-40万</pricerange>
+          <description>6速双离合变速器</description>
+     </ROI>
+</picture>
+<picture id = "20120601000009">
+     <pageurl>http://auto.sina.com.cn/car/2012-04-12/0708951773.shtml</pageurl>
+     <url>http://i0.sinaimg.cn/qc/photo_auto/photo/43/31/13704331/13704331_570.jpg</url>
+     <location/>
+     <description>理想主义在路上 试驾大众旅行车 2.0TSI</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>一汽大众</brand>
+          <model>速腾</model>
+          <cartype>中型车</cartype>
+          <pricerange>15-20万</pricerange>
+          <description>以为家庭目标客户的三厢车，车身坚固，工艺不错，但减配现象比较严重</description>
+     </ROI>
+</picture>
+<picture id = "20120601000010">
+     <pageurl>http://auto.sina.com.cn/car/2012-06-01/1041980323.shtml</pageurl>
+     <url>http://i1.sinaimg.cn/qc/photo_auto/photo/14/98/7911498/7911498_570.jpg</url>
+     <location/>
+     <description>朗逸1.4T直降1.2万 现车充足颜色齐全</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>上海大众</brand>
+          <model>朗逸</model>
+          <cartype>中型车</cartype>
+          <pricerange>10-15万</pricerange>
+          <description>专为中国打造的家用车，PQ34平台的加长版，后悬为半独立悬挂</description>
+     </ROI>
+</picture>
+<picture id = "20120601000011">
+     <pageurl>http://auto.sina.com.cn/car/2012-05-16/0944971637.shtml</pageurl>
+     <url>http://i2.sinaimg.cn/qc/photo_auto/photo/buycar/3508/1328761144.jpg</url>
+     <location/>
+     <description>一汽-大众CC最高优惠5千 少量现车</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>一汽大众</brand>
+          <model>大众CC</model>
+          <cartype>中型车</cartype>
+          <pricerange>20-30万</pricerange>
+          <description>动力出色，无边框车门和流畅的外观突出动感，头部空间略显局促</description>
+     </ROI>
+</picture>
+<picture id = "20120601000012">
+     <pageurl>http://auto.sina.com.cn/car/2012-05-16/0944971637.shtml</pageurl>
+     <url>http://i2.sinaimg.cn/qc/photo_auto/photo/buycar/3508/1328761144.jpg</url>
+     <location/>
+     <description>购高尔夫手动舒适版综合优惠8500元</description>
+     <catalog>汽车</catalog>
+     <ROI>
+          <subject>汽车</subject>
+          <brand>一汽大众</brand>
+          <model>高尔夫</model>
+          <cartype>中型车</cartype>
+          <pricerange>15-20万</pricerange>
+          <description>1.4TSI+DSG的动力总成同级领先，但该车型的产能状况一直有待提升。</description>
+     </ROI>
+</picture>
+</pictures>

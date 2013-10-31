@@ -1,0 +1,22 @@
+<!ELEMENT people          (person*)>
+<!ELEMENT person          (name, emailaddress, phone?, address?, homepage?, creditcard?, profile?)>
+<!ATTLIST person          id ID #REQUIRED>
+<!ELEMENT emailaddress    (#PCDATA)>
+<!ELEMENT phone           (#PCDATA)>
+<!ELEMENT address         (street, city, country, province?, zipcode)>
+<!ELEMENT street          (#PCDATA)>
+<!ELEMENT city            (#PCDATA)>
+<!ELEMENT province        (#PCDATA)>
+<!ELEMENT zipcode         (#PCDATA)>
+<!ELEMENT country         (#PCDATA)>
+<!ELEMENT homepage        (#PCDATA)>
+<!ELEMENT creditcard      (#PCDATA)>
+<!ELEMENT profile         (interest*, education?, gender?, business, age?)>
+<!ATTLIST profile         income CDATA #IMPLIED>
+<!ELEMENT interest        EMPTY>
+<!ATTLIST interest        category IDREF #REQUIRED>
+<!ELEMENT education       (#PCDATA)>
+<!ELEMENT income          (#PCDATA)>
+<!ELEMENT gender          (#PCDATA)>
+<!ELEMENT business        (#PCDATA)>
+<!ELEMENT age             (#PCDATA)>

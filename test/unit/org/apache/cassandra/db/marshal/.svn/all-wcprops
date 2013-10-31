@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal
+END
+ReversedTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/ReversedTypeTest.java
+END
+TypeCompareTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/TypeCompareTest.java
+END
+TypeParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/TypeParserTest.java
+END
+IntegerTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/IntegerTypeTest.java
+END
+UUIDTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/UUIDTypeTest.java
+END
+RoundTripTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/RoundTripTest.java
+END
+TypeValidationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/TypeValidationTest.java
+END
+TimeUUIDTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/TimeUUIDTypeTest.java
+END
+DynamicCompositeTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/DynamicCompositeTypeTest.java
+END
+CompositeTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/db/marshal/CompositeTypeTest.java
+END

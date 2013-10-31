@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift
+END
+KeyCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/KeyCount.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/Constants.java
+END
+ColumnDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/ColumnDef.java
+END
+CqlMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/CqlMetadata.java
+END
+IndexType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/IndexType.java
+END
+SliceRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/SliceRange.java
+END
+Compression.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/Compression.java
+END
+SlicePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/SlicePredicate.java
+END
+CfDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/CfDef.java
+END
+ColumnParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/ColumnParent.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/NotFoundException.java
+END
+KeyRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/KeyRange.java
+END
+KsDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/KsDef.java
+END
+CqlResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/CqlResult.java
+END
+ColumnOrSuperColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/ColumnOrSuperColumn.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/AuthenticationException.java
+END
+AuthenticationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/AuthenticationRequest.java
+END
+AuthorizationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/AuthorizationException.java
+END
+IndexOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/IndexOperator.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/Column.java
+END
+KeySlice.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/KeySlice.java
+END
+SchemaDisagreementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/SchemaDisagreementException.java
+END
+SuperColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/SuperColumn.java
+END
+Deletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/Deletion.java
+END
+ConsistencyLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/ConsistencyLevel.java
+END
+IndexExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/IndexExpression.java
+END
+Mutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/Mutation.java
+END
+Cassandra.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/Cassandra.java
+END
+TokenRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/TokenRange.java
+END
+IndexClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/IndexClause.java
+END
+UnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/UnavailableException.java
+END
+CqlRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/CqlRow.java
+END
+ColumnPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/ColumnPath.java
+END
+TimedOutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/TimedOutException.java
+END
+InvalidRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/InvalidRequestException.java
+END
+CounterSuperColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/CounterSuperColumn.java
+END
+CqlResultType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/CqlResultType.java
+END
+CounterColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/interface/thrift/gen-java/org/apache/cassandra/thrift/CounterColumn.java
+END

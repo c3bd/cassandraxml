@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/cassandraxml/debian
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cassandraxml/debian/init
+END
+default
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cassandraxml/debian/default
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/cassandraxml/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cassandraxml/debian/changelog
+END
+cassandra.install
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/cassandraxml/debian/cassandra.install
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cassandraxml/debian/README.Debian
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cassandraxml/debian/dirs
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cassandraxml/debian/TODO
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/cassandraxml/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/cassandraxml/debian/rules
+END
+cassandra.in.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/cassandraxml/debian/cassandra.in.sh
+END
+cassandra.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cassandraxml/debian/cassandra.conf
+END
+cassandra.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/cassandraxml/debian/cassandra.postinst
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/cassandraxml/debian/control
+END

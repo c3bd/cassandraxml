@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/242/trunk/cassandraxml/testdata
+END
+texttype1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/229/trunk/cassandraxml/testdata/texttype1.xml
+END
+texttype2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/229/trunk/cassandraxml/testdata/texttype2.xml
+END
+people.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/251/trunk/cassandraxml/testdata/people.dtd
+END
+complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/229/trunk/cassandraxml/testdata/complex.xml
+END
+ads.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/251/trunk/cassandraxml/testdata/ads.xml
+END
+recurele.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/253/trunk/cassandraxml/testdata/recurele.xml
+END
+anotation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/242/trunk/cassandraxml/testdata/anotation.xml
+END
+orders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/229/trunk/cassandraxml/testdata/orders.xml
+END
+synthetic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/251/trunk/cassandraxml/testdata/synthetic.xml
+END

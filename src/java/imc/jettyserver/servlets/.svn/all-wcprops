@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/imc/jettyserver/servlets
+END
+Log4jInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/imc/jettyserver/servlets/Log4jInit.java
+END
+HttpServletRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/imc/jettyserver/servlets/HttpServletRequestWrapper.java
+END

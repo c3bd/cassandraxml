@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache
+END
+AutoSavingKeyCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/AutoSavingKeyCache.java
+END
+AutoSavingCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/AutoSavingCache.java
+END
+ICache.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/ICache.java
+END
+InstrumentingCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/InstrumentingCache.java
+END
+FreeableMemory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/FreeableMemory.java
+END
+SerializingCacheProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/SerializingCacheProvider.java
+END
+InstrumentingCacheMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/InstrumentingCacheMBean.java
+END
+SerializingCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/SerializingCache.java
+END
+ConcurrentLinkedHashCacheProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/ConcurrentLinkedHashCacheProvider.java
+END
+ConcurrentLinkedHashCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/ConcurrentLinkedHashCache.java
+END
+IRowCacheProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/IRowCacheProvider.java
+END
+AutoSavingRowCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cache/AutoSavingRowCache.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/281/trunk/cassandraxml/src/java/imc/disxmldb/xpath/function
+END
+FunctionDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/xpath/function/FunctionDef.java
+END
+IXPathFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/xpath/function/IXPathFunction.java
+END
+FunctionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/288/trunk/cassandraxml/src/java/imc/disxmldb/xpath/function/FunctionPool.java
+END

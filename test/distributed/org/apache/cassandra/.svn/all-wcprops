@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cassandraxml/test/distributed/org/apache/cassandra
+END
+MutationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/test/distributed/org/apache/cassandra/MutationTest.java
+END
+CountersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/test/distributed/org/apache/cassandra/CountersTest.java
+END
+CassandraServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/test/distributed/org/apache/cassandra/CassandraServiceController.java
+END
+TestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/test/distributed/org/apache/cassandra/TestBase.java
+END
+MovementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/test/distributed/org/apache/cassandra/MovementTest.java
+END

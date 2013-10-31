@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util
+END
+EXistInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/EXistInputSource.java
+END
+Base64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/Base64Encoder.java
+END
+ReadOnlyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ReadOnlyException.java
+END
+XMLChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/XMLChar.java
+END
+SyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/SyntaxException.java
+END
+Heap.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/Heap.java
+END
+mime-types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/mime-types.xml
+END
+ProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ProgressBar.java
+END
+Compressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/Compressor.java
+END
+OrderedLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/OrderedLinkedList.java
+END
+LockException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/LockException.java
+END
+FastByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/FastByteBuffer.java
+END
+ProgressIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ProgressIndicator.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ProgressListener.java
+END
+CompressedWhitespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/CompressedWhitespace.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/Range.java
+END
+CharSlice.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/CharSlice.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ArrayUtils.java
+END
+FloatingPointConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/FloatingPointConverter.java
+END
+Base64Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/Base64Decoder.java
+END
+DatabaseConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/DatabaseConfigurationException.java
+END
+SelectorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/SelectorUtils.java
+END
+ByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ByteArray.java
+END
+UTF8.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/UTF8.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/MimeType.java
+END
+ByteArrayPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ByteArrayPool.java
+END
+FastStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/FastStringBuffer.java
+END
+EXistOutputKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/EXistOutputKeys.java
+END
+GZIPInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/GZIPInputSource.java
+END
+FileInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/FileInputSource.java
+END
+IncludeXMLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/IncludeXMLFilter.java
+END
+SwapVals.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/SwapVals.java
+END
+PorterStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/PorterStemmer.java
+END
+CollectionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/CollectionScanner.java
+END
+DeadlockException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/DeadlockException.java
+END
+CharArrayPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/CharArrayPool.java
+END
+ByteConversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ByteConversion.java
+END
+FixedByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/FixedByteArray.java
+END
+ExistSAXParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ExistSAXParserFactory.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/FileUtils.java
+END
+GlobToRegex.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/GlobToRegex.java
+END
+ZipEntryInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/ZipEntryInputSource.java
+END
+DirectoryScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/82/trunk/cassandraxml/src/java/org/exist/util/DirectoryScanner.java
+END

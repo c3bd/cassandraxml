@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/Permission.java
+END
+AllowAllAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/AllowAllAuthority.java
+END
+AllowAllAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/AllowAllAuthenticator.java
+END
+AuthenticatedUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/AuthenticatedUser.java
+END
+IAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/IAuthority.java
+END
+IAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/IAuthenticator.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/Resources.java
+END
+SimpleAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/SimpleAuthority.java
+END
+SimpleAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/auth/SimpleAuthenticator.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/legacy-sstables/b/Keyspace1
+END
+Standard1-b-0-Data.db
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/legacy-sstables/b/Keyspace1/Standard1-b-0-Data.db
+END
+Standard1-b-0-Filter.db
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/legacy-sstables/b/Keyspace1/Standard1-b-0-Filter.db
+END
+Standard1-b-0-Index.db
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/legacy-sstables/b/Keyspace1/Standard1-b-0-Index.db
+END

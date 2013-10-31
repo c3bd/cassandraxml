@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/252/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate
+END
+XUpdateTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate/XUpdateTextTest.java
+END
+XUpdateAppendMultiAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/251/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate/XUpdateAppendMultiAttr.java
+END
+XUpdateClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/216/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate/XUpdateClientTest.java
+END
+XUpdateDeleteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/252/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate/XUpdateDeleteTest.java
+END
+XUpdateAppendTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/295/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate/XUpdateAppendTest.java
+END
+AppendLevel2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/295/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate/AppendLevel2Test.java
+END
+RollbackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/191/trunk/cassandraxml/test/unit/imc/disxmldb/xupdate/RollbackTest.java
+END

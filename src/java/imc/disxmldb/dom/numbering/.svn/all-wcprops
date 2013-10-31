@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/dom/numbering
+END
+NumberingSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/286/trunk/cassandraxml/src/java/imc/disxmldb/dom/numbering/NumberingSchema.java
+END
+INumberingSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/dom/numbering/INumberingSchema.java
+END

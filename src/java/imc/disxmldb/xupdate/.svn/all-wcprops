@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/xupdate
+END
+AppendHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/xupdate/AppendHandler.java
+END
+AppendRollBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/xupdate/AppendRollBack.java
+END
+AppendHandlerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/xupdate/AppendHandlerMBean.java
+END
+XUpdateProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/xupdate/XUpdateProcessor.java
+END

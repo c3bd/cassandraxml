@@ -1,0 +1,40 @@
+10
+
+dir
+281
+https://imccassandraxml.googlecode.com/svn/trunk/cassandraxml/src/java/org/exist
+https://imccassandraxml.googlecode.com/svn
+
+
+
+2012-07-20T09:54:35.683032Z
+264
+xiafan68
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bca7c035-16c6-4e1d-c52e-70b80fab7185
+
+util
+dir
+
+xmldb
+dir
+
+xmlrpc
+dir
+
+xquery
+dir
+

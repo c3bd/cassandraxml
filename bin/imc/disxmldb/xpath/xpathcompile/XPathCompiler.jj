@@ -1,0 +1,310 @@
+/**
+ * JavaCC template file created by SF JavaCC plugin 1.5.17+ wizard for JavaCC 1.5.0+
+ */options{  JDK_VERSION = "1.5";
+  UNICODE_INPUT = true;  static = false;}PARSER_BEGIN(XPathCompiler)package imc.disxmldb.xpath.xpathcompile;
+import org.apache.cassandra.dht.IPartitioner;
+import org.apache.cassandra.utils.LatencyTracker;
+
+import imc.disxmldb.CollectionStore;
+import imc.disxmldb.cassandra.verbhandler.XPathQueryCommand;
+import imc.disxmldb.dom.typesystem.ValueType;
+import imc.disxmldb.dom.typesystem.TypeResolver;
+import imc.disxmldb.index.filter.IXMLFilter;
+import imc.disxmldb.index.filter.XMLLocalDocFilter;
+import imc.disxmldb.xpath.ExecContext;
+import imc.disxmldb.xpath.XPathProcessorV2;
+import imc.disxmldb.xpath.XPathProcessorV2.XPathError;
+import imc.disxmldb.xpath.XPathSequence;
+import imc.disxmldb.xpath.function.FunctionDef;
+import imc.disxmldb.xpath.function.FunctionPool;
+
+public class XPathCompiler{
+  public static void main(String args []) throws ParseException  {    XPathCompiler parser = new XPathCompiler(System.in);  }
+
+  public boolean compile() throws ParseException {
+			XPath();
+			//否者抛出异常
+			return true;
+	}}PARSER_END(XPathCompiler)SKIP :
+{
+  " "
+| "\r"
+| "\t"
+| "\n"
+}
+
+TOKEN : /* OPERATORS */
+{
+  < PLUS : "+" >
+| < MINUS : "-" >
+| < MULTIPLY : "*" >
+| < DIVIDE : "/" >
+| < EQ : "=" >
+| < LT : "<" >
+| < LE : "<=" >
+| < GT : ">" >
+| < GE : ">=" >
+| < UNDERSCODE : "_" >
+}
+
+TOKEN : /*defination of digits*/
+{
+  < IntegerLiteral : (<PLUS> | <MINUS>)? < DIGITS > >
+| < #DIGITS : (< DIGIT >)+ >
+| < #DIGIT : [ "0"-"9" ] >
+| < EscapeApos : "''" >
+| < EscapeQuot : "\"\"" >
+| < DecimalLiteral :
+   (<PLUS> | <MINUS>)?( ("." < DIGITS >)
+  |
+    (
+      < DIGITS > "." (< DIGIT >)*
+    )) >
+| < DoubleLiteral :
+    (
+      ("." < DIGITS >)
+    |
+      (
+        < DIGITS >
+        (
+          "." (< DIGIT >)*
+        )?
+      )
+    )
+    [ "e", "E" ]
+    (
+      < PLUS >
+    | < MINUS >
+    )?
+    < DIGITS > >
+}
+
+TOKEN :
+{
+  < SingleQuotation : "'" >
+| < DoubleQuotation : "\"" >
+| < StringLiteral :
+    (
+      < DoubleQuotation >
+      (
+        ~[ "\"" ]
+      | < EscapeQuot >
+      )*
+      < DoubleQuotation >
+    )
+  |
+    (
+      < SingleQuotation >
+      (
+        (~[ "'" ])
+      | (< EscapeApos >)
+      )*
+      < SingleQuotation >
+    ) >
+}
+
+TOKEN :
+{
+  < DOT : "." >
+| < DOUBLESLASH : "//" >
+| < LEADDOUBLESLASH : ".//" >
+| < CURSLASH : "./" >
+| < DECENDENTSLASH : "../" >
+| < OPENPARAN : "(" >
+| < CLOSEPARAN : ")" >
+| < COMMA : "," >
+| < OPENBRAKET : "[" >
+| < CLOSEBRAKET : "]" >
+| < SEMICOLON : ";" >
+}
+
+TOKEN :
+{
+  < AT : "@" >
+| < NCName :
+    (
+      (< Alpha > | < UNDERSCODE >)
+      (
+        < Alpha >
+      | < DIGIT > 
+      | < UNDERSCODE >
+      )*
+    ) >
+| < QName : (< NCName > ":" < NCName >) >
+| < AttrName : (< AT > < NCName >) >
+| < FuncStart : (< NCName > "(")>
+| < #Alpha : [ "a"-"z", "A"-"Z","\u5000"-"\u5FFF","\u6000"-"\u6FFF", "\u7000"-"\u7FFF", "\u8000"-"\u8FFF","\u9000"-"\u9FFF"  ] >
+}
+/**
+all the ExecContext object for the function should be created by the function that invokes them
+*/
+
+void XPath():
+{
+
+}
+{( LOOKAHEAD(2) function()
+|  (XPathStepLevel())? OutXPathEndWithFunc()
+ )< SEMICOLON >
+}
+
+/**
+this context_ is not the parent context
+*/
+void BoolXPathStep():{
+String compOp = null;
+ValueType argType = ValueType.UNKNOW;}{	(LeadXPathStepLevel())?
+	    (
+	    	 LOOKAHEAD(2)  
+			function()
+	  |(			XPathStep() 
+			(
+			  XPathStepLevel()(			  XPathStep()
+			  | function() 
+			   )
+			)* 			(
+				compOp = compareOperator() argType = Constant()			{
+			  FunctionDef funcDef = new FunctionDef(compOp);
+			  funcDef.addArgType(ValueType.ELEMENTS);
+			  funcDef.addArgType(argType);
+			  FunctionDef newDef = FunctionPool.getFuncImpl(funcDef);
+			  if (newDef == null || newDef.getFuncImpl() == null) {
+				throw new ParseException("no function is found for " + funcDef.signature());
+			  }			}
+			)?
+		)
+	)
+}
+
+/**
+	this function will execute the steps
+*/
+void XPathSteps():
+{
+}
+{ (   XPathStep()(XPathStepLevel() XPathStep())*
+)
+}
+
+void OutXPathEndWithFunc():{
+}
+{	XPathStep()
+	( 	XPathStepLevel()
+		(		 function()
+		|XPathStep()
+		)
+	)*	
+}
+
+void XPathStepLevel():{
+}
+{ < DOUBLESLASH >
+  | < DIVIDE >
+}
+
+void LeadXPathStepLevel():{
+}
+{	 < LEADDOUBLESLASH >
+ | < CURSLASH >
+}
+
+void XPathStep():
+{
+}
+{ (< NCName >|
+< QName >|
+< AttrName>
+ ) { } Predicates()
+}
+
+/**
+	invoke the function, but will not merge with the parent context
+*/
+void function():
+{	Token funcName = null;
+	FunctionDef funcDef = null;
+}
+{	(	 funcName =  < FuncStart >	  {
+	    funcDef = new FunctionDef(funcName.image.substring(0, funcName.image.length() - 1));	  } paramters(funcDef) < CLOSEPARAN>
+	)
+	{		//invoke the function here
+		FunctionDef newDef = FunctionPool.getFuncImpl(funcDef);
+		if (newDef == null || newDef.getFuncImpl() == null) {
+			throw new ParseException(funcDef.signature()
+						+ " " + XPathError.NOT_IMPLEMENTED);
+		}
+	}
+}
+
+void paramters(FunctionDef func_):{
+}
+{	(	  parameter(func_) (< COMMA> parameter(func_))*
+	)?
+}
+
+void parameter(FunctionDef func_):{
+	ValueType argType = ValueType.UNKNOW;
+}
+{	(	 (	    (	     LeadXPathStepLevel())? XPathStep()(XPathStepLevel() XPathStep())*	{
+	  	argType = ValueType.ELEMENTS;	} )| argType = Constant()
+){
+	func_.addArgType(argType);
+}
+}
+/**
+
+*/
+void Predicates():
+{	
+}
+{	(	  Predicate()
+	)*
+}
+
+void Predicate():{
+}
+{ 	< OPENBRAKET > BoolXPathStep() < CLOSEBRAKET >
+}
+
+
+
+String compareOperator():
+{
+	Token t = null;
+} {   (     t = < EQ >
+| t = < LT >
+| t =  < LE >
+| t = < GT >
+| t = < GE >
+){
+  return t.image;}
+}
+
+
+/**
+parent node should create the context_ for this node
+*/
+ValueType Constant():{
+  ValueType ret = ValueType.UNKNOW;
+  Token t;}
+{ (    t = < StringLiteral >{
+ 	 String value = t.image.trim();
+        ret = TypeResolver.resolve(value.substring(1, value.length() - 1));
+	if (ValueType.isFileSizeType(ret))
+		ret = ValueType.FILESIZE;}
+| t = < IntegerLiteral >
+{	Integer.parseInt(t.image);
+	ret = ValueType.INT;
+}
+| t = < DecimalLiteral >
+	{
+	  if (Double.parseDouble(t.image) == Double.POSITIVE_INFINITY || Double.parseDouble(t.image) == Double.NEGATIVE_INFINITY)
+	  	throw new ParseException(t.image + " is too big");	  ret = ValueType.DOUBLE;
+	}
+| t = < DoubleLiteral >{
+   if (Double.parseDouble(t.image) == Double.POSITIVE_INFINITY || Double.parseDouble(t.image) == Double.NEGATIVE_INFINITY)	throw new ParseException(t.image + " is too big");
+	ret = ValueType.DOUBLE;
+}
+){
+   	return ret;}
+}

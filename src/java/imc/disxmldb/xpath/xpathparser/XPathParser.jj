@@ -1,0 +1,434 @@
+/**
+ * JavaCC template file created by SF JavaCC plugin 1.5.17+ wizard for JavaCC 1.5.0+
+ */options{  JDK_VERSION = "1.5";
+  UNICODE_INPUT = true;  static = false;}PARSER_BEGIN(XPathParser)package imc.disxmldb.xpath.xpathparser;
+import org.apache.cassandra.dht.IPartitioner;
+import org.apache.cassandra.utils.LatencyTracker;
+
+import imc.disxmldb.CollectionStore;
+import imc.disxmldb.cassandra.verbhandler.XPathQueryCommand;
+import imc.disxmldb.dom.typesystem.ValueType;
+import imc.disxmldb.dom.typesystem.TypeResolver;
+import imc.disxmldb.index.filter.IXMLFilter;
+import imc.disxmldb.index.filter.XMLLocalDocFilter;
+import imc.disxmldb.xpath.ExecContext;
+import imc.disxmldb.xpath.XPathProcessorV2;
+import imc.disxmldb.xpath.XPathProcessorV2.XPathError;
+import imc.disxmldb.xpath.XPathSequence;
+import imc.disxmldb.xpath.function.FunctionDef;
+import imc.disxmldb.xpath.function.FunctionPool;
+import imc.disxmldb.config.SysConfig;
+
+import java.io.IOException;
+import java.io.PipedInputStream;
+import java.io.PipedOutputStream;
+
+public class XPathParser{
+  private static LatencyTracker xpathExecLatency = new LatencyTracker();
+  private PipedInputStream input = new PipedInputStream(9160);
+  private PipedOutputStream output = new PipedOutputStream();
+  private boolean connected = false;
+
+public boolean connect(){		try {
+				output.connect(input);
+				ReInit(input, SysConfig.ENCODING);
+				connected = true;
+				return true;
+			} catch (IOException e) {
+				return false;
+			}
+}
+
+public void close() throws IOException{	input.close();
+	output.close();
+}
+
+public boolean reConnect(){	try {
+				input.close();
+				output.close();
+				input = new PipedInputStream(9160);
+				output = new PipedOutputStream();
+				output.connect(input);
+				this.ReInit(input, SysConfig.ENCODING);
+				connected = true;
+				return true;
+			} catch (IOException e) {
+				return false;
+			}
+}
+  public Object execXPath(XPathQueryCommand command,
+			CollectionStore colStore) throws IMCXPathException,ParseException,IOException {
+			  if (!connected)			  {				throw new IMCXPathException("XPathParser is not initialized properly");
+			  }
+			  output.write(command.command);
+		long startTime = System.currentTimeMillis();
+		try {
+			IPartitioner partitioner = colStore.getCfStore().getCfStore().partitioner;
+			IXMLFilter filter = new XMLLocalDocFilter(
+					colStore.getColKeyValidator(), partitioner, command.range);
+			ExecContext context = new ExecContext();
+			context.colStore = colStore;
+			context.filter = filter;
+			context.recursive = command.isRecursive();
+			context.isRoot = true;
+			XPath(context);
+			if (context.hasError())
+				 throw new IMCXPathException(context.getError());
+
+			if (context.noResults())
+                  return null;
+			Object ret = context.getResult();
+			if (ret instanceof XPathSequence)
+				return ((XPathSequence) ret).getStepValue();
+			else
+				return ret;
+		} finally {
+			xpathExecLatency.addMicro(System.currentTimeMillis() - startTime);
+		}
+	}
+
+  public static void main(String args []) throws ParseException
+  {
+    XPathParser parser = new XPathParser(System.in);
+  }
+	}PARSER_END(XPathParser)SKIP :
+{
+  " "
+| "\r"
+| "\t"
+| "\n"
+}
+
+TOKEN : /* OPERATORS */
+{
+  < PLUS : "+" >
+| < MINUS : "-" >
+| < MULTIPLY : "*" >
+| < DIVIDE : "/" >
+| < EQ : "=" >
+| < LT : "<" >
+| < LE : "<=" >
+| < GT : ">" >
+| < GE : ">=" >
+| < UNDERSCODE : "_" >
+}
+
+TOKEN : /*defination of digits*/
+{
+  < IntegerLiteral : (<PLUS> | <MINUS>)? < DIGITS > >
+| < #DIGITS : (< DIGIT >)+ >
+| < #DIGIT : [ "0"-"9" ] >
+| < EscapeApos : "''" >
+| < EscapeQuot : "\"\"" >
+| < DecimalLiteral :
+   (<PLUS> | <MINUS>)?( ("." < DIGITS >)
+  |
+    (
+      < DIGITS > "." (< DIGIT >)*
+    )) >
+| < DoubleLiteral :
+    (
+      ("." < DIGITS >)
+    |
+      (
+        < DIGITS >
+        (
+          "." (< DIGIT >)*
+        )?
+      )
+    )
+    [ "e", "E" ]
+    (
+      < PLUS >
+    | < MINUS >
+    )?
+    < DIGITS > >
+}
+
+TOKEN :
+{
+  < SingleQuotation : "'" >
+| < DoubleQuotation : "\"" >
+| < StringLiteral :
+    (
+      < DoubleQuotation >
+      (
+        ~[ "\"" ]
+      | < EscapeQuot >
+      )*
+      < DoubleQuotation >
+    )
+  |
+    (
+      < SingleQuotation >
+      (
+        (~[ "'" ])
+      | (< EscapeApos >)
+      )*
+      < SingleQuotation >
+    ) >
+}
+
+TOKEN :
+{
+  < DOT : "." >
+| < DOUBLESLASH : "//" >
+| < LEADDOUBLESLASH : ".//" >
+| < CURSLASH : "./" >
+| < DECENDENTSLASH : "../" >
+| < OPENPARAN : "(" >
+| < CLOSEPARAN : ")" >
+| < COMMA : "," >
+| < OPENBRAKET : "[" >
+| < CLOSEBRAKET : "]" >
+| < SEMICOLON : ";" >
+}
+
+TOKEN :
+{
+  < AT : "@" >
+| < NCName :
+    (
+      (< Alpha > | < UNDERSCODE >)
+      (
+        < Alpha >
+      | < DIGIT > 
+      | < UNDERSCODE >
+      )*
+    ) >
+| < QName : (< NCName > ":" < NCName >) >
+| < AttrName : (< AT > < NCName >) >
+| < FuncStart : (< NCName > "(")>
+| < #Alpha : [ "a"-"z", "A"-"Z","\u5000"-"\u5FFF","\u6000"-"\u6FFF", "\u7000"-"\u7FFF", "\u8000"-"\u8FFF","\u9000"-"\u9FFF"  ] >
+}
+/**
+all the ExecContext object for the function should be created by the function that invokes them
+*/
+
+void XPath(ExecContext root_):
+{
+  int level = XPathSequence.ASCIENT_DESCIENT_LEVEL;
+   ExecContext func = root_.createChildContext();
+}
+{( function(func)  {
+	XPathProcessorV2.mergeFunction(root_, func);
+	  }< SEMICOLON >
+|  ((level = XPathStepLevel())? OutXPathEndWithFunc(level, root_)
+ < SEMICOLON >))
+}
+
+/**
+this context_ is not the parent context
+*/
+ExecContext BoolXPathStep(ExecContext context_):{
+  ExecContext funcChildContext = null;
+  String compOp = "";
+  ValueType argType = ValueType.UNKNOW;
+  ExecContext argContext = context_.createChildContext();
+  int level = XPathSequence.ASCIENT_DESCIENT_LEVEL;}{	(level = LeadXPathStepLevel())?
+	    (
+	    	 LOOKAHEAD(2) (      
+			 {funcChildContext = context_.createChildContext();
+			  }function(funcChildContext)			  {			XPathProcessorV2.mergeFunction(context_, funcChildContext);
+			  }
+		  	)
+	  |(			XPathStep(level, context_) 
+			(
+			  (level = XPathStepLevel()(			  XPathStep(level, context_)
+			  | (
+				  {funcChildContext = context_.createChildContext();
+			  } function(funcChildContext) 
+				   {
+				XPathProcessorV2.mergeFunction(context_, funcChildContext);
+				  }))
+			)* 			(
+				(compOp = compareOperator() argType = Constant(argContext))			{
+			  if (context_.noResults())
+			  	return context_;
+			  funcChildContext = context_.createChildContext();
+			  funcChildContext.funcDef = new FunctionDef(compOp);
+			  funcChildContext.funcDef.addArgType(ValueType.ELEMENTS);
+			  funcChildContext.funcDef.addArgType(argType);
+			  funcChildContext.args.push(context_);
+			  funcChildContext.args.push(argContext);
+			  FunctionDef funcDef = FunctionPool.getFuncImpl(funcChildContext.getFuncDef());
+			  if (funcDef == null || funcDef.getFuncImpl() == null) {
+				throw new ParseException("no function is found for " + funcChildContext.getFuncDef().signature());
+			  } else {
+				funcDef.getFuncImpl().invoke(funcChildContext);
+				XPathProcessorV2.mergeFunction(context_, funcChildContext);
+			  } 			}
+			)?
+		)
+		)
+)
+{
+  return context_;
+}
+}
+
+/**
+	this function will execute the steps
+*/
+void XPathSteps(int level, ExecContext context_):
+{
+}
+{ (   XPathStep(level, context_)(
+  level = XPathStepLevel() XPathStep(level, context_))*
+){	XPathProcessorV2.execSteps(context_);
+}
+}
+
+void OutXPathEndWithFunc(int level, ExecContext context_):{ ExecContext func = null;
+ boolean shouldBreak = false;
+}
+{	XPathStep(level, context_)	{
+	  func = context_.createChildContext();	}
+	( 	level = XPathStepLevel()
+		(		 function(func)
+		{
+			XPathProcessorV2.mergeFunction(context_, func);
+			shouldBreak = true;
+		}
+		|XPathStep(level, context_)
+		)
+	)*
+	{	 	if (!shouldBreak) 			XPathProcessorV2.execSteps(context_);
+	}
+	
+}
+
+int XPathStepLevel():{
+}
+{ < DOUBLESLASH >
+     {
+       return XPathSequence.ASCIENT_DESCIENT_LEVEL;
+     }| < DIVIDE >
+     {
+       return 1;
+     }
+}
+
+int LeadXPathStepLevel():{
+}
+{	 < LEADDOUBLESLASH >
+     {
+       return XPathSequence.ASCIENT_DESCIENT_LEVEL;
+     }| < CURSLASH >
+     {
+       return 1;
+     }
+}
+
+void XPathStep(int level, ExecContext context_):
+{Token t = null;	
+}
+{ (   t = < NCName >|
+   t = < QName >|
+   t = < AttrName>
+ ) {
+   if (level == 0)   {	level = 1;
+	context_.setIsRoot(true);
+   }
+   context_.setLastLevel(level);
+   context_.addSequence(t.image, t.kind); } Predicates(context_)
+}
+
+/**
+	invoke the function, but will not merge with the parent context
+*/
+void function(ExecContext func_):
+{	Token funcName = null;
+}
+{	(	 funcName =  < FuncStart >	  {
+	    func_.setFuncDef(new FunctionDef(funcName.image.substring(0, funcName.image.length() - 1)));	  } paramters(func_) < CLOSEPARAN>
+	)
+	{		//invoke the function here
+		FunctionDef funcDef = FunctionPool.getFuncImpl(func_.getFuncDef());
+		if (funcDef == null) {
+			throw new ParseException(func_.funcDef.signature()
+						+ " " + XPathError.NOT_IMPLEMENTED);
+		} else {
+			func_.setFuncDef(funcDef);
+			funcDef.getFuncImpl().invoke(func_);
+		}
+	}
+}
+
+void paramters(ExecContext func_):{
+}
+{	(	  parameter(func_) (< COMMA> parameter(func_))*
+	)?
+}
+
+void parameter(ExecContext func_):{	ExecContext argContext = func_.createChildContext();
+	ValueType argType = ValueType.UNKNOW;
+	int level = XPathSequence.ASCIENT_DESCIENT_LEVEL;
+}
+{	(	 (	    (	      level = LeadXPathStepLevel())? XPathStep(level, argContext)(level = XPathStepLevel() XPathStep(level, argContext))*	{
+	  	argType = ValueType.ELEMENTS;	} )| argType = Constant(argContext)
+){	func_.args.add(argContext);
+	func_.funcDef.addArgType(argType);
+}
+}
+/**
+
+*/
+void Predicates(ExecContext steps_):
+{	
+}
+{	(	  Predicate(steps_)
+	)*
+}
+
+void Predicate(ExecContext steps_):{	ExecContext predicate = steps_.createChildContext();
+}
+{ 	< OPENBRAKET > BoolXPathStep(predicate) 	{
+ 	  if (!steps_.noResults()) 	  {
+ 	  	XPathProcessorV2.execSteps(predicate);
+ 	  	XPathProcessorV2.mergePredicate(steps_, predicate);
+ 	  } 	} < CLOSEBRAKET >
+}
+
+
+
+String compareOperator():
+{
+	Token t = null;
+} {   (     t = < EQ >
+| t = < LT >
+| t =  < LE >
+| t = < GT >
+| t = < GE >
+){
+  return t.image;}
+}
+
+
+/**
+parent node should create the context_ for this node
+*/
+ValueType Constant(ExecContext context_):{
+  ValueType ret = ValueType.UNKNOW;
+  Token t;}
+{ (    t = < StringLiteral >{
+ 	 String value = t.image.trim();
+        ret = TypeResolver.resolve(value.substring(1, value.length() - 1));
+	if (ValueType.isFileSizeType(ret))
+		ret = ValueType.FILESIZE;}
+| t = < IntegerLiteral >
+{
+  try  {	Integer.parseInt(t.image);
+	ret = ValueType.INT;
+  } catch(Exception ex)  {	ret = ValueType.LONG;
+  }
+}
+| t = < DecimalLiteral >
+	{	  ret = ValueType.DOUBLE;
+	}
+| t = < DoubleLiteral >{	ret = ValueType.DOUBLE;
+}
+){
+   	context_.addSequence(t.image, t.kind);
+   	return ret;}
+}

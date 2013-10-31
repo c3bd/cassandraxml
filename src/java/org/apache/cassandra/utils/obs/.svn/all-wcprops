@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/utils/obs
+END
+OpenBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/utils/obs/OpenBitSet.java
+END
+BitUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/utils/obs/BitUtil.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/utils/obs/ArrayUtil.java
+END

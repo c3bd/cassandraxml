@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 173
+ParseException.java
+SimpleCharStream.java
+Token.java
+TokenMgrError.java
+XPathTokenParser.java
+XPathTokenParserConstants.java
+XPathTokenParserTokenManager.java
+XPathToken.jj
+
+END

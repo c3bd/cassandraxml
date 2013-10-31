@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/hadoop
+END
+ConfigHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/hadoop/ConfigHelper.java
+END
+ColumnFamilySplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/hadoop/ColumnFamilySplit.java
+END
+ColumnFamilyRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/hadoop/ColumnFamilyRecordReader.java
+END
+ColumnFamilyRecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/hadoop/ColumnFamilyRecordWriter.java
+END
+ColumnFamilyInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/hadoop/ColumnFamilyInputFormat.java
+END
+ColumnFamilyOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/hadoop/ColumnFamilyOutputFormat.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/278/trunk/cassandraxml/test/unit/imc/disxmldb
+END
+CFInvertIndexCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/81/trunk/cassandraxml/test/unit/imc/disxmldb/CFInvertIndexCleaner.java
+END
+CFInvertIndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/273/trunk/cassandraxml/test/unit/imc/disxmldb/CFInvertIndexTest.java
+END
+RemoveCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/170/trunk/cassandraxml/test/unit/imc/disxmldb/RemoveCollectionTest.java
+END
+BtreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/295/trunk/cassandraxml/test/unit/imc/disxmldb/BtreeTest.java
+END

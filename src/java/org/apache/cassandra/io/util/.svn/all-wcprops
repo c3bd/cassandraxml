@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util
+END
+BufferedSegmentedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/BufferedSegmentedFile.java
+END
+SegmentedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/SegmentedFile.java
+END
+MmappedSegmentedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/MmappedSegmentedFile.java
+END
+CompressedSegmentedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/CompressedSegmentedFile.java
+END
+DataOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/DataOutputBuffer.java
+END
+RandomAccessReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/RandomAccessReader.java
+END
+MemoryInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/MemoryInputStream.java
+END
+ColumnSortedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/ColumnSortedMap.java
+END
+FileMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/FileMark.java
+END
+FileDataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/FileDataInput.java
+END
+IIterableColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/IIterableColumns.java
+END
+MemoryOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/MemoryOutputStream.java
+END
+OutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/OutputBuffer.java
+END
+AbstractDataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/AbstractDataInput.java
+END
+FastByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/FastByteArrayOutputStream.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/FileUtils.java
+END
+FastByteArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/FastByteArrayInputStream.java
+END
+SequentialWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/SequentialWriter.java
+END
+MappedFileDataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/io/util/MappedFileDataInput.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra
+END
+EmbeddedServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/EmbeddedServer.java
+END
+AbstractSerializationsTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/AbstractSerializationsTester.java
+END
+SchemaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/SchemaLoader.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/Util.java
+END
+CleanupHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/CleanupHelper.java
+END

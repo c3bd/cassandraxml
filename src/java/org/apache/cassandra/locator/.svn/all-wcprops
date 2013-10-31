@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator
+END
+NetworkTopologyStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/NetworkTopologyStrategy.java
+END
+EndpointSnitchInfoMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/EndpointSnitchInfoMBean.java
+END
+EndpointSnitchInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/EndpointSnitchInfo.java
+END
+IEndpointSnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/IEndpointSnitch.java
+END
+OldNetworkTopologyStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/OldNetworkTopologyStrategy.java
+END
+TokenMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/TokenMetadata.java
+END
+AbstractNetworkTopologySnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/AbstractNetworkTopologySnitch.java
+END
+SimpleStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/SimpleStrategy.java
+END
+Ec2MultiRegionSnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/Ec2MultiRegionSnitch.java
+END
+AbstractEndpointSnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/AbstractEndpointSnitch.java
+END
+SeedProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/SeedProvider.java
+END
+Ec2Snitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/Ec2Snitch.java
+END
+DynamicEndpointSnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/DynamicEndpointSnitch.java
+END
+DynamicEndpointSnitchMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/DynamicEndpointSnitchMBean.java
+END
+LocalStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/LocalStrategy.java
+END
+SimpleSnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/SimpleSnitch.java
+END
+AbstractReplicationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/AbstractReplicationStrategy.java
+END
+ILatencySubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/ILatencySubscriber.java
+END
+PropertyFileSnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/PropertyFileSnitch.java
+END
+SimpleSeedProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/SimpleSeedProvider.java
+END
+RackInferringSnitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/locator/RackInferringSnitch.java
+END

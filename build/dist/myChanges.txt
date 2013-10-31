@@ -1,0 +1,142 @@
+change history
+run configuration:
+-Djava.rmi.server.hostname=mc1
+-Dcom.sun.management.jmxremote.port=7791 
+-Dcom.sun.management.jmxremote.ssl=false
+-Dcom.sun.management.jmxremote.authenticate=false
+-Xmx8192M
+-Xms8192M
+-XX:+UseParNewGC
+ -XX:+UseConcMarkSweepGC
+-XX:+CMSParallelRemarkEnabled
+-XX:SurvivorRatio=8
+-XX:MaxTenuringThreshold=1
+-XX:CMSInitiatingOccupancyFraction=75
+-XX:+UseCMSInitiatingOccupancyOnly
+-XX:+UseCompressedOops
+
+2011-10-06:
+add XML_NODE_STORE and XML_QUERY two stages to StageManager
+add XML_STORE_NODE and XML_XQUERY two verbhandler to StorageService��verb
+
+2011-10-08:
+1.	modify the RowMutation message header to support storing node
+	it involves create a class that encapsulate the process of transform a xml node to a super column mutation,
+	changing the message header and modifying the RowMutationVerbHandler to support index on xml node.
+	
+2.  decide whether to write my own xml read handler or just change the original readcommand
+
+
+xml system table:
+create keyspace xmldb_sys_catalog
+    with strategy_options=[{replication_factor:3}]
+    and placement_strategy = 'org.apache.cassandra.locator.SimpleStrategy';
+    
+create column family schemaCatalog
+    with column_type = standard
+    and key_valiation_class = UTF8Type
+    and comparator = UTF8Type
+    and keys_cached = 10000
+    and rows_cached = 150
+    and row_cache_save_period = 0
+    and key_cache_save_period = 3600
+    and memtable_flush_after = 59
+    and memtable_throughput = 255
+    and memtable_operations = 0.29
+    and column_metadata = [{
+        column_name : createdate,
+        validation_class : LongType},
+        {
+        column_name : modifydate,
+        validation_class : LongType},
+        {
+        column_name : schema,
+        validation_class : UTF8Type},
+        
+    ];
+	
+    create column family colcatalog
+    with column_type = Super
+    and key_valiation_class = Int32Type
+    comparator = UTF8Type
+    and subcomparator = UTF8Type
+    and keys_cached = 10000
+    and rows_cached = 100
+    and row_cache_save_period = 0
+    and key_cache_save_period = 3600
+    and memtable_flush_after = 59
+    and memtable_throughput = 255
+    and memtable_operations = 0.29;
+    
+    create column family xmlcatalog
+    with column_type = Super
+    and key_valiation_class = Int32Type
+    comparator = UTF8Type
+    and subcomparator = UTF8Type
+    and keys_cached = 10000
+    and rows_cached = 100
+    and row_cache_save_period = 0
+    and key_cache_save_period = 3600
+    and memtable_flush_after = 59
+    and memtable_throughput = 255
+    and memtable_operations = 0.29;
+    
+    
+    2011-10-14:
+    1. add the catalog keyspace and column family of xml database into the cassandra, which we need them to be loaded
+    when cassandra starts
+        one place needed to be modified is DatabaseDescriptor.java 405, where the system keyspace and column family is 
+        loaded.
+        using newSystemMetadata() in CFMetaData.java to create metadata for system columnfamily and CFMetaData.java:78
+        
+    
+    2011-10-18 :
+    1.	what is the value of uri, localname and qname? when are they empty string?
+    2.	ByteBuffer needs to rewind after put and get operations.
+    
+    
+    2011-10-21 :
+    1.  There are two function where a row mutation is applied, which are the RowMutationVerbHandler.doVerb and StorageProxy.insertLocal.
+        So these two function should be modified to update the indexes if there are a xml mutation.
+        
+    2011-10-22:
+    1.	System table should never be  loaded from local storage. Schema.java 281 should be modified to filter out
+    	our own system keyspace to avoid it to be stored. Another place needed to be modified is Schema.load(schema.java:381);
+    	
+   2011-10-23:
+   1. ColumnFamilyStore.concatWithIndexes() is modified to add the cfstore for invertindex. we hope it will persist our xml indexes to 
+      local storage.
+      discarded
+   2. modify all the place where concatWithIndexes is invoked, make sure the xml invert index cfstore is also flushed.
+      add field invertIndexCf to ColumnFamilyStore
+      columnFamilyStore.java:238, validate the code
+      columnFamilyStore.java:681,
+  2011-10-24:
+  1. modify CompactionManager.doCleanupCompaction to get all columns of a deleted key and pass it to the SecondaryIndexManager.
+  2011-10-28:
+  bug:
+  1.	CommitLog.recover:322
+  change:
+  1. ColumnFamilyStore.maybeSwitchMemtable:674 when the memtable of the baseCfs is flushed, ensure all the indexes to be flushed
+  2011-10-30:
+  performance: retrieving a xml part of about 4k costs 992ms. The retrieving at server sides costs 354ms, retrieving at
+  the data nodes costs 336ms. It seems the transmission of xmlrpc costs a lot of time.
+  2011-11-01:
+  modify:
+  1. WriteResponse.java: add a field modifyCount to record the nodes that is modified
+  2. modify AbstractWriteResponseHandler.java and WriteResponseHandler.java to recieve the modifyCount from 
+  	WriteResponse
+  2011-11-03:
+  javacc:
+  1. the symbol "'" needs not to be escaped with a \ symbol, but " needs to be escaped
+  bug:
+  	xpath:
+  		1. "/basicfeature/node[./@id='1']/bfid"; when EEJoin with node and bfid, it seems the order of them is reversed
+  2011-11-03:
+  change:
+  	1. add a field to record the number of xml nodes in an xml file, as the dom index is proportional to the number of nodes;
+  	2. the partition path should be recorded in the xmlmeta;
+  
+  2011-11-03:
+  TODO:
+  1. we need to attach lock with a xml documents so that only one instance can xupdate the doc

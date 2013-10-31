@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/281/trunk/cassandraxml/src/java/org/apache/cassandra/service
+END
+IResponseResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/IResponseResolver.java
+END
+SocketSessionManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/SocketSessionManagementService.java
+END
+IReadCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/IReadCommand.java
+END
+AbstractWriteResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/178/trunk/cassandraxml/src/java/org/apache/cassandra/service/AbstractWriteResponseHandler.java
+END
+CassandraDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/CassandraDaemon.java
+END
+WriteResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/178/trunk/cassandraxml/src/java/org/apache/cassandra/service/WriteResponseHandler.java
+END
+AbstractCassandraDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/281/trunk/cassandraxml/src/java/org/apache/cassandra/service/AbstractCassandraDaemon.java
+END
+DatacenterWriteResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/DatacenterWriteResponseHandler.java
+END
+LoadBroadcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/LoadBroadcaster.java
+END
+RowDigestResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/RowDigestResolver.java
+END
+TruncateResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/TruncateResponseHandler.java
+END
+MigrationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/MigrationManager.java
+END
+DigestMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/DigestMismatchException.java
+END
+RangeSliceResponseResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/RangeSliceResponseResolver.java
+END
+ReadCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/ReadCallback.java
+END
+DatacenterReadCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/DatacenterReadCallback.java
+END
+EmbeddedCassandraService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/EmbeddedCassandraService.java
+END
+RangeSliceVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/RangeSliceVerbHandler.java
+END
+StorageProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/org/apache/cassandra/service/StorageProxy.java
+END
+IWriteResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/178/trunk/cassandraxml/src/java/org/apache/cassandra/service/IWriteResponseHandler.java
+END
+AsyncRepairCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/AsyncRepairCallback.java
+END
+RowRepairResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/RowRepairResolver.java
+END
+StorageProxyMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/160/trunk/cassandraxml/src/java/org/apache/cassandra/service/StorageProxyMBean.java
+END
+ClientState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/ClientState.java
+END
+AntiEntropyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/AntiEntropyService.java
+END
+DatacenterSyncWriteResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/112/trunk/cassandraxml/src/java/org/apache/cassandra/service/DatacenterSyncWriteResponseHandler.java
+END
+StorageServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/StorageServiceMBean.java
+END
+AbstractRowResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/AbstractRowResolver.java
+END
+IndexScanVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/IndexScanVerbHandler.java
+END
+GCInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/GCInspector.java
+END
+StorageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/cassandraxml/src/java/org/apache/cassandra/service/StorageService.java
+END
+RepairCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/service/RepairCallback.java
+END

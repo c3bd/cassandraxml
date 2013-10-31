@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/filter
+END
+XMLLocalDocFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/filter/XMLLocalDocFilter.java
+END
+RootNodeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/filter/RootNodeFilter.java
+END
+IXMLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/filter/IXMLFilter.java
+END
+IdentityXMLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/imc/disxmldb/index/filter/IdentityXMLFilter.java
+END

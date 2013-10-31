@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/66/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction
+END
+LeveledCompactionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/LeveledCompactionTask.java
+END
+AbstractCompactionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/AbstractCompactionTask.java
+END
+CompactionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/CompactionTask.java
+END
+LazilyCompactedRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/LazilyCompactedRow.java
+END
+CompactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/66/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/CompactionManager.java
+END
+CompactionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/CompactionController.java
+END
+OperationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/OperationType.java
+END
+ParallelCompactionIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/ParallelCompactionIterable.java
+END
+LeveledCompactionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/LeveledCompactionStrategy.java
+END
+PrecompactedRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/PrecompactedRow.java
+END
+AbstractCompactionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/AbstractCompactionStrategy.java
+END
+SizeTieredCompactionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/SizeTieredCompactionStrategy.java
+END
+AbstractCompactedRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/AbstractCompactedRow.java
+END
+AbstractCompactionIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/AbstractCompactionIterable.java
+END
+CompactionIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/CompactionIterable.java
+END
+CompactionManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/CompactionManagerMBean.java
+END
+CompactionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/CompactionInfo.java
+END
+LeveledManifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/compaction/LeveledManifest.java
+END

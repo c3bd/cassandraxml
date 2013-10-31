@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/255/trunk/cassandraxml/test/unit/imc/disxmldb/util
+END
+TestUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/255/trunk/cassandraxml/test/unit/imc/disxmldb/util/TestUtilities.java
+END
+XMLUtilitiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/191/trunk/cassandraxml/test/unit/imc/disxmldb/util/XMLUtilitiesTest.java
+END
+StringOutputStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/191/trunk/cassandraxml/test/unit/imc/disxmldb/util/StringOutputStreamTest.java
+END
+XUpdateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/213/trunk/cassandraxml/test/unit/imc/disxmldb/util/XUpdateTest.java
+END

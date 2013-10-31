@@ -1,0 +1,84 @@
+<ads>
+     <ad id = '20120604000002'>
+          <compaign id = "20120604000001"/>
+          <pics> <!-- 在哪些图片上投放这个广告 -->
+               <pic id = "20120601000001"/>
+               <pic id = "20120601000002"/>
+               <pic id = "20120601000003"/>
+               <pic id = "20120601000004"/>
+          </pics>
+          <locations> <!-- 地域定向 -->
+                <location>
+                     <province>北京</province>
+                     <city>北京</city>
+                 </location>
+                <location>
+                     <province>上海</province>
+                     <city>上海</city>
+                 </location>
+                <location>
+                     <province>浙江</province>
+                     <city>杭州</city>
+                 </location>
+                <location>
+                     <province>广东</province>
+                     <city>深圳</city>
+                 </location>
+          </locations>
+          <targetUsers> <!-- 感兴趣的用户群 -->
+               <interests>
+                    <interest>汽车</interest>
+                    <interest>旅行</interest>
+                    <interest>运动</interest>
+               </interests>
+               <ages>
+                    <age>0-20</age>
+                    <age>20-30</age>
+               </ages>
+               <genders>
+                    <gender>男</gender>
+               </genders>
+          </targetUsers>
+     </ad>
+     <ad id = '20120604000002'>
+          <compaign id = "20120604000001"/>
+          <pics> <!-- 在哪些图片上投放这个广告 -->
+               <pic id = "20120601000001"/>
+               <pic id = "20120601000002"/>
+               <pic id = "20120601000003"/>
+               <pic id = "20120601000004"/>
+          </pics>
+          <locations> <!-- 地域定向 -->
+                <location>
+                     <province>北京</province>
+                     <city>北京</city>
+                 </location>
+                <location>
+                     <province>上海</province>
+                     <city>上海</city>
+                 </location>
+                <location>
+                     <province>浙江</province>
+                     <city>杭州</city>
+                 </location>
+                <location>
+                     <province>广东</province>
+                     <city>深圳</city>
+                 </location>
+          </locations>
+          <targetUsers> <!-- 感兴趣的用户群 -->
+               <interests>
+                    <interest>汽车</interest>
+                    <interest>旅行</interest>
+                    <interest>运动</interest>
+               </interests>
+               <ages>
+                    <age>0-20</age>
+                    <age>20-30</age>
+               </ages>
+               <genders>
+                    <gender>男</gender>
+               </genders>
+          </targetUsers>
+     </ad>
+</ads>

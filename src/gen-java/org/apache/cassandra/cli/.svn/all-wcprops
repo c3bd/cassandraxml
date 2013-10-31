@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/cli
+END
+CliParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/cli/CliParser.java
+END
+CliLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/cli/CliLexer.java
+END
+Cli.tokens
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/cassandraxml/src/gen-java/org/apache/cassandra/cli/Cli.tokens
+END

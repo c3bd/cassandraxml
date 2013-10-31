@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/streaming
+END
+BootstrapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/streaming/BootstrapTest.java
+END
+StreamingTransferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/streaming/StreamingTransferTest.java
+END
+SerializationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/streaming/SerializationsTest.java
+END
+StreamUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/test/unit/org/apache/cassandra/streaming/StreamUtil.java
+END

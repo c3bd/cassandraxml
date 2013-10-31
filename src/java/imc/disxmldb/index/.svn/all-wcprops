@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/281/trunk/cassandraxml/src/java/imc/disxmldb/index
+END
+ComparatorByRangeFirst.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/250/trunk/cassandraxml/src/java/imc/disxmldb/index/ComparatorByRangeFirst.java
+END
+FileSizeKeyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/index/FileSizeKeyComparator.java
+END
+NodeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/imc/disxmldb/index/NodeComparator.java
+END
+NodeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/276/trunk/cassandraxml/src/java/imc/disxmldb/index/NodeUnit.java
+END
+NodeBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/285/trunk/cassandraxml/src/java/imc/disxmldb/index/NodeBinding.java
+END
+NodeIDComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/index/NodeIDComparator.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/226/trunk/cassandraxml/src/java/imc/disxmldb/index/Node.java
+END
+XMLIndexManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/295/trunk/cassandraxml/src/java/imc/disxmldb/index/XMLIndexManager.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/corrupt-sstables
+END
+Super5-f-2-Statistics.db
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/corrupt-sstables/Super5-f-2-Statistics.db
+END
+Super5-f-2-Data.db
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/corrupt-sstables/Super5-f-2-Data.db
+END
+Super5-f-2-Filter.db
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/corrupt-sstables/Super5-f-2-Filter.db
+END
+Super5-f-2-Index.db
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/cassandraxml/test/data/corrupt-sstables/Super5-f-2-Index.db
+END

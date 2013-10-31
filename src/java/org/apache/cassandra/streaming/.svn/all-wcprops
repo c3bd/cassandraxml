@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming
+END
+StreamOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamOut.java
+END
+ReplicationFinishedVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/ReplicationFinishedVerbHandler.java
+END
+StreamHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamHeader.java
+END
+StreamReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamReply.java
+END
+StreamingServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamingServiceMBean.java
+END
+IncomingStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/IncomingStreamReader.java
+END
+StreamOutSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamOutSession.java
+END
+StreamIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamIn.java
+END
+OperationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/OperationType.java
+END
+FileStreamTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/FileStreamTask.java
+END
+StreamReplyVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamReplyVerbHandler.java
+END
+StreamRequestVerbHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamRequestVerbHandler.java
+END
+StreamRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamRequestMessage.java
+END
+StreamingRepairTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamingRepairTask.java
+END
+StreamingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamingService.java
+END
+PendingFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/PendingFile.java
+END
+StreamInSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/streaming/StreamInSession.java
+END

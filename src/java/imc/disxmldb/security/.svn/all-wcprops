@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/232/trunk/cassandraxml/src/java/imc/disxmldb/security
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/232/trunk/cassandraxml/src/java/imc/disxmldb/security/Permission.java
+END
+UserSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/232/trunk/cassandraxml/src/java/imc/disxmldb/security/UserSerializer.java
+END
+PermissionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/221/trunk/cassandraxml/src/java/imc/disxmldb/security/PermissionFactory.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/232/trunk/cassandraxml/src/java/imc/disxmldb/security/User.java
+END
+UnixStylePermissionSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/232/trunk/cassandraxml/src/java/imc/disxmldb/security/UnixStylePermissionSerializer.java
+END
+XMLDBSecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/232/trunk/cassandraxml/src/java/imc/disxmldb/security/XMLDBSecurityManager.java
+END
+MessageDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/221/trunk/cassandraxml/src/java/imc/disxmldb/security/MessageDigester.java
+END
+UnixStylePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/232/trunk/cassandraxml/src/java/imc/disxmldb/security/UnixStylePermission.java
+END
+PermissionDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/221/trunk/cassandraxml/src/java/imc/disxmldb/security/PermissionDeniedException.java
+END

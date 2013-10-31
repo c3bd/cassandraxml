@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql
+END
+Term.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/Term.java
+END
+CreateKeyspaceStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/CreateKeyspaceStatement.java
+END
+DropIndexStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/DropIndexStatement.java
+END
+QueryProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/QueryProcessor.java
+END
+StatementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/StatementType.java
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/Operation.java
+END
+UpdateStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/UpdateStatement.java
+END
+DeleteStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/DeleteStatement.java
+END
+AbstractModification.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/AbstractModification.java
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/Relation.java
+END
+CreateColumnFamilyStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/CreateColumnFamilyStatement.java
+END
+CreateIndexStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/CreateIndexStatement.java
+END
+Cql.g
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/Cql.g
+END
+AlterTableStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/AlterTableStatement.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/Attributes.java
+END
+WhereClause.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/WhereClause.java
+END
+BatchStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/BatchStatement.java
+END
+SelectExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/SelectExpression.java
+END
+SelectStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/SelectStatement.java
+END
+CQLStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/cql/CQLStatement.java
+END

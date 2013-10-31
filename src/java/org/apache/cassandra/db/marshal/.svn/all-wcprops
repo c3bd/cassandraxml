@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal
+END
+CounterColumnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/CounterColumnType.java
+END
+DecimalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/DecimalType.java
+END
+DoubleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/DoubleType.java
+END
+UTF8Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/UTF8Type.java
+END
+AsciiType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/AsciiType.java
+END
+Int32Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/Int32Type.java
+END
+DateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/DateType.java
+END
+BytesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/BytesType.java
+END
+DynamicCompositeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/DynamicCompositeType.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/BooleanType.java
+END
+TimeUUIDType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/TimeUUIDType.java
+END
+CompositeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/CompositeType.java
+END
+AbstractCompositeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/AbstractCompositeType.java
+END
+AbstractType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/AbstractType.java
+END
+ReversedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/ReversedType.java
+END
+LocalByPartionerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/LocalByPartionerType.java
+END
+LexicalUUIDType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/LexicalUUIDType.java
+END
+TypeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/TypeParser.java
+END
+IntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/IntegerType.java
+END
+FileSizeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/273/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/FileSizeType.java
+END
+LongType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/LongType.java
+END
+FloatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/FloatType.java
+END
+UUIDType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/UUIDType.java
+END
+AbstractCommutativeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/AbstractCommutativeType.java
+END
+MarshalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/marshal/MarshalException.java
+END

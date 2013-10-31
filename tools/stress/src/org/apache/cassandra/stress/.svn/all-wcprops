@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress
+END
+StressAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/StressAction.java
+END
+StressServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/StressServer.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/Session.java
+END
+Stress.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/cassandraxml/tools/stress/src/org/apache/cassandra/stress/Stress.java
+END

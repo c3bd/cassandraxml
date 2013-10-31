@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/201/trunk/cassandraxml/src/java/org/apache/cassandra/db/index
+END
+SecondaryIndexManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/201/trunk/cassandraxml/src/java/org/apache/cassandra/db/index/SecondaryIndexManager.java
+END
+SecondaryIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/66/trunk/cassandraxml/src/java/org/apache/cassandra/db/index/SecondaryIndex.java
+END
+SecondaryIndexBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/index/SecondaryIndexBuilder.java
+END
+PerRowSecondaryIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/66/trunk/cassandraxml/src/java/org/apache/cassandra/db/index/PerRowSecondaryIndex.java
+END
+SecondaryIndexSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/index/SecondaryIndexSearcher.java
+END
+PerColumnSecondaryIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/cassandraxml/src/java/org/apache/cassandra/db/index/PerColumnSecondaryIndex.java
+END

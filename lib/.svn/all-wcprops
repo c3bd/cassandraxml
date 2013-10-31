@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/207/trunk/cassandraxml/lib
+END
+snakeyaml-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cassandraxml/lib/snakeyaml-1.6.jar
+END
+avro-1.4.0-fixes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/cassandraxml/lib/avro-1.4.0-fixes.jar
+END
+jackson-mapper-asl-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jackson-mapper-asl-1.4.0.jar
+END
+antlr-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/cassandraxml/lib/antlr-3.2.jar
+END
+commons-codec-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/cassandraxml/lib/commons-codec-1.2.jar
+END
+jna.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/84/trunk/cassandraxml/lib/jna.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/cassandraxml/lib/commons-lang-2.4.jar
+END
+json-simple-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/cassandraxml/lib/json-simple-1.1.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/cassandraxml/lib/slf4j-api-1.6.1.jar
+END
+compress-lzf-0.8.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/cassandraxml/lib/compress-lzf-0.8.4.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/cassandraxml/lib/slf4j-log4j12-1.6.1.jar
+END
+commons-cli-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/cassandraxml/lib/commons-cli-1.1.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/206/trunk/cassandraxml/lib/commons-logging-1.1.1.jar
+END
+libthrift-0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cassandraxml/lib/libthrift-0.6.jar
+END
+mx4j-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/cassandraxml/lib/mx4j-tools.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cassandraxml/lib/log4j-1.2.16.jar
+END
+jackson-core-asl-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jackson-core-asl-1.4.0.jar
+END
+platform.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/cassandraxml/lib/platform.jar
+END
+servlet-api-2.5-20081211.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cassandraxml/lib/servlet-api-2.5-20081211.jar
+END
+jline-0.9.94.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jline-0.9.94.jar
+END
+zookeeper-3.3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/251/trunk/cassandraxml/lib/zookeeper-3.3.5.jar
+END
+avro-1.4.0-sources-fixes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/cassandraxml/lib/avro-1.4.0-sources-fixes.jar
+END
+high-scale-lib-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/cassandraxml/lib/high-scale-lib-1.1.2.jar
+END
+jamm-0.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/cassandraxml/lib/jamm-0.2.5.jar
+END
+jna.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/84/trunk/cassandraxml/lib/jna.license.txt
+END
+snappy-java-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/cassandraxml/lib/snappy-java-1.0.3.jar
+END
+concurrentlinkedhashmap-lru-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/cassandraxml/lib/concurrentlinkedhashmap-lru-1.2.jar
+END
+je-4.1.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/36/trunk/cassandraxml/lib/je-4.1.10.jar
+END
+mx4j.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/cassandraxml/lib/mx4j.license.txt
+END
+je-5.0.34.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/176/trunk/cassandraxml/lib/je-5.0.34.jar
+END
+guava-r08.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/cassandraxml/lib/guava-r08.jar
+END

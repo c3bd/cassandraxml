@@ -1,0 +1,32 @@
+<texttype sub="8">
+    <outtype length="6" name="consumption" num="1" sub="0">
+        <code>020001</code>
+    </outtype>
+    <outtype length="6" name="culture" num="1" sub="0">
+        <code>020002</code>
+    </outtype>
+    <outtype length="6" name="education" num="1" sub="0">
+        <code>020003</code>
+    </outtype>
+    <outtype length="6" name="finance" num="1" sub="0">
+        <code>020004</code>
+    </outtype>
+    <outtype length="6" name="government" num="1" sub="0">
+        <code>020005</code>
+    </outtype>
+    <outtype length="6" name="health" num="1" sub="0">
+        <code>020006</code>
+    </outtype>
+    <outtype length="6" name="military" num="1" sub="0">
+        <code>020007</code>
+    </outtype>
+    <outtype length="6" name="science" num="1" sub="0">
+        <code>020008</code>
+    </outtype>
+    <outtype length="6" name="sport" num="1" sub="0">
+        <code>020009</code>
+    </outtype>
+    <outtype length="6" name="tour" num="1" sub="0">
+        <code>020010</code>
+    </outtype>
+</texttype>

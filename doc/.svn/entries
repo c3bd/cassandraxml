@@ -1,0 +1,34 @@
+10
+
+dir
+250
+https://imccassandraxml.googlecode.com/svn/trunk/cassandraxml/doc
+https://imccassandraxml.googlecode.com/svn
+
+
+
+2011-10-11T08:11:41.975050Z
+17
+xiafan68@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bca7c035-16c6-4e1d-c52e-70b80fab7185
+
+cql
+dir
+
+xml
+dir
+

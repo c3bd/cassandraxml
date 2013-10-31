@@ -1,0 +1,97 @@
+10
+
+dir
+281
+https://imccassandraxml.googlecode.com/svn/trunk/cassandraxml/src/java/org/apache/cassandra
+https://imccassandraxml.googlecode.com/svn
+
+
+
+2012-07-28T02:04:25.261490Z
+281
+xiafan68
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bca7c035-16c6-4e1d-c52e-70b80fab7185
+
+auth
+dir
+
+avro
+dir
+
+cache
+dir
+
+cli
+dir
+
+client
+dir
+
+concurrent
+dir
+
+config
+dir
+
+cql
+dir
+
+db
+dir
+
+dht
+dir
+
+gms
+dir
+
+hadoop
+dir
+
+io
+dir
+
+locator
+dir
+
+net
+dir
+
+notifications
+dir
+
+scheduler
+dir
+
+security
+dir
+
+service
+dir
+
+streaming
+dir
+
+thrift
+dir
+
+tools
+dir
+
+utils
+dir
+

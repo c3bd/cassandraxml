@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/cassandraxml/contrib/pig
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/cassandraxml/contrib/pig/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/cassandraxml/contrib/pig/build.xml
+END
+example-script.pig
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/cassandraxml/contrib/pig/example-script.pig
+END
